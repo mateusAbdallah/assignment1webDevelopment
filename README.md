@@ -1,5 +1,5 @@
 # douglasCollege
 PROGRAM REQUIREMENTS
 
-[ * ] - HTML
-[ ] - Body
+[ * ] - HTML.
+[ ] - Body.
