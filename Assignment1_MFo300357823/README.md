@@ -1,4 +1,4 @@
-- [] HTML - specific background-color
+- [x] HTML - specific background-color
 - [] Body - different background-color, add border in dark color
 - [] Header - title heading, image of destination, blockquote describing the travel
 - [] Article - padding and margin set equals to zero
