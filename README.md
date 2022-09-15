@@ -1,4 +1,4 @@
 # douglasCollege
 PROGRAM REQUIREMENTS
 
-[  ] - HTML
+[ * ] - HTML
