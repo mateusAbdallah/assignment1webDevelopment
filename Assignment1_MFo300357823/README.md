@@ -1,4 +1,6 @@
-[*] HTML - Specific background color;
-[] Body - Specific background color different than the HTML's background color / add a border with dark color;
-[] Header - Title heading, add an image, put citation and blockquote describing the destination;
-[] 
+- [] HTML - specific background-color
+- [] Body - different background-color, add border in dark color
+- [] Header - title heading, image of destination, blockquote describing the travel
+- [] Article - padding and margin set equals to zero
+- [] Sections - class attribute, set padding, describe the travel itinerary, use differents lists
+- [] Footer - specify name and email and copyright notice
