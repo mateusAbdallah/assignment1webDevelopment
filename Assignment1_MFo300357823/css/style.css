@@ -4,7 +4,24 @@
     margin: 0;
 }
 
-/* html {
+html {
     background-color: aqua;
 }
- */
+
+body {
+    background-color: skyblue;
+    width: 80%;
+    margin: auto;
+}
+
+header h1, blockquote, figure, tr, td {
+    text-align: center;
+}
+
+.description {
+    padding: 0 .5rem;
+}
+
+table, td {
+    border: 1px solid black;
+}
