@@ -10,18 +10,30 @@ html {
 
 body {
     background-color: skyblue;
-    width: 80%;
+    width: 60%;
     margin: auto;
 }
 
-header h1, blockquote, figure, tr, td {
+header h1, 
+blockquote, 
+figure, 
+table, tr, td {
     text-align: center;
 }
 
-.description {
-    padding: 0 .5rem;
+.description, #facts {
+    padding: 1.5rem;
 }
 
-table, td {
-    border: 1px solid black;
+th {
+    color: green;
+}
+
+th, td {
+    border-bottom: 1px solid black;
+}
+
+span {
+    font-size: 20px;
+    border-bottom: 1px dotted black;
 }
