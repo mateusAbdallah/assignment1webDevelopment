@@ -1,6 +1,6 @@
-- [] HTML - specific background-color
-- [] Body - different background-color, add border in dark color
-- [] Header - title heading, image of destination, blockquote describing the travel
-- [] Article - padding and margin set equals to zero
-- [] Sections - class attribute, set padding, describe the travel itinerary, use differents lists
+- [x] HTML - specific background-color
+- [x] Body - different background-color, add border in dark color
+- [x] Header - title heading, image of destination, blockquote describing the travel
+- [x] Article - padding and margin set equals to zero
+- [x] Sections - class attribute, set padding, describe the travel itinerary, use differents lists
 - [] Footer - specify name and email and copyright notice
