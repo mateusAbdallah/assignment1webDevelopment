@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -5,7 +7,7 @@
 }
 
 html {
-    background-color: aqua;
+    background-color: lightblue;
 }
 
 body {
@@ -15,7 +17,15 @@ body {
 }
 
 h1 {
-    color: orangered;
+    font-family: 'Dancing Script', sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    padding: 1rem 0;
+    color: blueviolet;    
+}
+
+h1 span {
+    text-shadow: 2px 2px whitesmoke;
 }
 
 header h1, 
@@ -23,6 +33,10 @@ blockquote,
 figure, 
 table, tr, td {
     text-align: center;
+}
+
+blockquote p {
+    font-size: 20px;
 }
 
 .description, #facts, .review {
