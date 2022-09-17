@@ -24,23 +24,36 @@ h1 {
     color: blueviolet;    
 }
 
+h2 {
+    font-family: sans-serif;
+}
+
 h1 span {
     text-shadow: 2px 2px whitesmoke;
 }
 
 header h1, 
 blockquote, 
-figure, 
+figure,
+h2, 
 table, tr, td {
     text-align: center;
 }
 
 blockquote p {
     font-size: 20px;
+    padding: 0 2rem;
+    font-family: sans-serif;
 }
 
 .description, #facts, .review {
     padding: 1rem 1.5rem;
+}
+
+.table {
+    display: grid;
+    padding: 1rem;
+    font-family: sans-serif;
 }
 
 th {
@@ -54,9 +67,24 @@ th, td {
 .container {
     display: flex;
     justify-content: space-between;
+    padding: 1rem;
+}
+
+ul, ol {
+    /* list-style: none; */
+    font-family: sans-serif;
+}
+
+ol {
+    padding: 1rem;
 }
 
 .city {
+    padding: 1rem 0;
+}
+
+.city span {
     font-size: 20px;
-    border-bottom: 1px solid black;
+    font-weight: 700;
+    border-bottom: 2px solid black;
 }
