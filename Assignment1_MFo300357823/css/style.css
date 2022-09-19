@@ -32,7 +32,7 @@ h1 span {
     text-shadow: 2px 2px whitesmoke;
 }
 
-header h1, 
+header h1,
 blockquote, 
 figure,
 h2, 
@@ -88,4 +88,10 @@ ol {
     font-size: 20px;
     font-weight: 700;
     border-bottom: 2px solid black;
+}
+
+footer {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 1rem;
 }
