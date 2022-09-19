@@ -3,4 +3,4 @@
 - [x] Header - title heading, image of destination, blockquote describing the travel
 - [x] Article - padding and margin set equals to zero
 - [x] Sections - class attribute, set padding, describe the travel itinerary, use differents lists
-- [] Footer - specify name and email and copyright notice
+- [x] Footer - specify name and email and copyright notice
