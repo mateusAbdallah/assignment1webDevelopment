@@ -52,6 +52,7 @@ blockquote p {
 
 .table {
     display: grid;
+    place-items: center;
     padding: 1rem;
     font-family: sans-serif;
 }
